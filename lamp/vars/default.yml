@@ -1,0 +1,7 @@
+---
+mysql_root_password: "root"
+app_user: "ansible"
+http_host: "marmar.loc"
+http_conf: "marmar.loc.conf"
+http_port: "80"
+disable_default: true
